@@ -1,0 +1,28 @@
+.header {
+  font-family: cursive;
+  font-size: 50px;
+  background-color: antiquewhite;
+  color: brown;
+  padding-bottom: 5px;
+}
+
+.backCol {
+  background-color: antiquewhite;
+}
+
+.h2s {
+  font-family: cursive;
+  background-color: chocolate;
+}
+
+.lip {
+  color: blue;
+}
+
+.sip {
+  color: cornflowerblue;
+}
+
+.tip {
+  color: goldenrod;
+}
